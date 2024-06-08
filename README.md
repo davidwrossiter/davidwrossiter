@@ -1,4 +1,4 @@
-## Hey! I'm David! 👋
+## hey! i'm david! 👋
 
-I love programming and building companies
+i'm currently building an awesome company with awesome people.
 
