@@ -2,4 +2,4 @@
 
 ## Hey, I'm David! 👋
 
-I'm currently building an awesome company with awesome people.
+I'm currently building an awesome company with awesome people!
