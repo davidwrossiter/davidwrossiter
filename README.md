@@ -2,4 +2,4 @@
 
 ## Hey, I'm David! 👋
 
-I'm building an awesome company, with awesome people!
+I love running and programming.
