@@ -4,4 +4,4 @@
 
 I love running and programming.
 
-Currently building [heywilson.dev]([heywilson.dev](https://heywilson.dev))
+Currently building [heywilson.dev](https://heywilson.dev)
