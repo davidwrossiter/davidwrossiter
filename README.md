@@ -4,3 +4,5 @@
 # Hey, I'm David! 👋
 
 Currently building [mordecaiapp.com](https://mordecaiapp.com)
+
+TS & Go
