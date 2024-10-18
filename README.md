@@ -3,6 +3,4 @@
 
 # Hey, I'm David! 👋
 
-I love running and programming.
-
-Currently building [heywilson.dev](https://heywilson.dev)
+Currently building [mordecaiapp.com](https://mordecaiapp.com)
