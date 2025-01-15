@@ -5,6 +5,6 @@
 
 Currently building [Mordecai](https://mordecaiapp.com). 
 
-Mordecai is a unified ai chat interface. It replaces the need for ChatGPT and Claude, you can instead use the models from all the major providers in one place: Mordecai. 
+Mordecai is a unified AI chat interface. It replaces the need for ChatGPT and Claude, you can use the models from all the major providers in one place: Mordecai. 
 
 If you would like to book an onboarding call you can do so [here](https://cal.com/rossiter/15min).
