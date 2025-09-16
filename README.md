@@ -1,6 +1,6 @@
 # David Rossiter
 
-> TypeScript, Go, React, and Hono
+
 
 
 
