@@ -1,4 +1,3 @@
 # David Rossiter
 
-I'm an experienced TypeScript developer, with extensive Hono experience, and a good knowledge of React.
-
+ts / hono engineer, experience spans infrastructure provisioning, private server orchestration, and ml system architecture
