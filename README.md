@@ -1,3 +1,3 @@
 # David Rossiter
 
-ts / hono engineer, experience spans infrastructure provisioning, private server orchestration, and ml system architecture
+Building things for fun
