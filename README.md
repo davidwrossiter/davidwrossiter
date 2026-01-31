@@ -1,3 +1,3 @@
 # David Rossiter
 
-Building things for fun
+Software that scales
