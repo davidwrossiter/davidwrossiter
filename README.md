@@ -2,4 +2,4 @@
 
 Software that scales
 
-![dc8c273c296d6aee0692d996b28c48f1](https://github.com/user-attachments/assets/e8c137c1-c172-4d52-864b-71d37db21955)
+<img width="1199" height="530" alt="banner" src="https://github.com/user-attachments/assets/0af92491-e96d-489b-bf25-71fa2ec60b2e" />
